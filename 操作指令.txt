@@ -1,0 +1,31 @@
+SELECT classes.classId, s.num, classes.name 
+AS classname, classes.term, classes.teacherId 
+FROM classes INNER JOIN teachers 
+ON classes.teacherId = teachers.teacherId left join 
+(SELECT TOP (100) PERCENT classId, num 
+FROM (SELECT classId, COUNT(*) AS num FROM dbo.stuHomework 
+WHERE (results IS NULL) GROUP BY classId) 
+AS t ORDER BY num DESC)as s on classes.classId=s.classId 
+where classes.teacherId=@value order by s.num desc
+用学号从学生课程表查询他的课程，再查询该课程所有作业，用课程号和次数查询作业
+SELECT classes.classId, classes.name AS classname, classes.term, s.num
+SELECT stuCourse.classId ON stuCourse.studentId= students.studentId
+
+SELECT classes.classId, s.num, classes.name 
+AS classname, classes.term
+FROM classes INNER JOIN teachers 
+ON classes.teacherId = teachers.teacherId left join 
+(SELECT TOP (100) PERCENT classId, num 
+FROM (SELECT classId, COUNT(*) AS num FROM dbo.stuHomework 
+WHERE (results IS NULL) GROUP BY classId) 
+AS t ORDER BY num DESC)as s on classes.classId=s.classId 
+
+-		GridView1.BottomPagerRow	{System.Web.UI.WebControls.GridViewRow}	System.Web.UI.WebControls.GridViewRow
+System.Web.UI.WebControls.GridViewRow
+SELECT classes.classId,  classes.name AS classname, classes.term FROM stuCourse INNER JOIN classes ON studentId=0711010098
+insert Mut_Eval_List  results = 90 where studentId=0711010098 AND classId=17 AND times=1 AND Eval_User_Id=02110
+0711010099	17	1	0711010098	90
+stuHomework.studentId,students.name, stuHomework.classId, Mut_Eval_List.results, stuHomework.[content],stuHomework.comment 
+SELECT stuHomework.studentId,students.name, stuHomework.classId, Mut_Eval_List.results, stuHomework.[content],stuHomework.comment 
+FROM(stuHomework INNER JOIN students ON stuHomework.studentId = students.studentId) INNER JOIN Mut_Eval_List 
+ON  students.studentId = Mut_Eval_List.studentId AND Mut_Eval_List.times=stuHomework.times WHERE stuHomework.classId = 17 AND Mut_Eval_List.times = 1 AND Eval_User_Id = 0711010099 order by studentId

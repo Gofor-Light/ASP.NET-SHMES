@@ -1,0 +1,80 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="admin.master.cs" Inherits="admin" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>学生作业互评系统</title>
+    <link href="css/commen.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="top">
+        <div id="lbl">
+            <asp:Label ID="lbl1" runat="server" Text="当前用户:"></asp:Label>
+            <asp:Label ID="lbl2" runat="server"></asp:Label>
+        </div>
+        <div class="escbtn">
+            <asp:ImageButton ID="btnEsc" runat="server" ImageUrl="~/images/esc.jpg" 
+                OnClick="btnEsc_Click" ValidationGroup="gresc" />
+        </div>
+    </div>
+    <div id="main">
+        <div id="navigation">
+            <ul id="menu">
+                <li>
+                    <dl>
+                        <dt><a href="teacherman.aspx">教师管理</a></dt>
+                        <dd>
+                            <a href="insertTeacher.aspx">新增教师</a></dd>
+                        <dd>
+                            <a href="teacherman.aspx">查看单个教师</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt><a href="studentman.aspx">学生管理</a></dt>
+                        <dd>
+                            <a href="insertstudent.aspx">新增学生</a></dd>
+                        <dd>
+                            <a href="studentman.aspx">查看单个学生</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt><a href="classman.aspx">课程管理</a></dt>
+                        <dd>
+                            <a href="insertclass.aspx">新增课程</a></dd>
+                        <dd>
+                            <a href="classman.aspx">查看单个课程</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt><a href="collegeman.aspx">学院管理</a></dt>
+                        <dd><a href="collegeman.aspx">查看设置学院</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt><a href="termman.aspx">学期管理</a></dt>
+                        <dd><a href="termman.aspx">查看设置学期</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt><a href="adminDefault.aspx">管理员管理</a></dt>
+                        <dd><a href="adminDefault.aspx">管理员设置</a></dd>
+                    </dl>
+                </li>
+            </ul>
+        </div>
+        <div id="content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

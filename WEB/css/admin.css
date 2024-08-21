@@ -1,0 +1,211 @@
+﻿
+body
+{
+}
+p
+{
+    width: 570px;
+    margin: 0 0 0 10px;
+    padding: 10px 0 5px 10px;
+    font-size: 20px;
+    color: #426CA7;
+    font-weight: bold;
+    border-bottom: 6px solid #EAEFF5;
+}
+span
+{
+    display: inline-block;
+    margin: 0px;
+    padding: 10px 5px 0 0px;
+    width: 70px;
+    font-size: 14px;
+    text-align: right;
+}
+.lbl
+{
+    font-size: 14px;
+    position: static;
+    width: 100px;
+    text-align: left;
+    padding: 0;
+    margin: 0 0 0 8px;
+}
+.txt
+{
+    font-size: 14px;
+    position: static;
+    width: 96px;
+    text-align: left;
+    padding: 0;
+    margin: 0 0 0 8px;
+}
+.bt1, .bt2, .bt3, .bt4, .bt5
+{
+    margin: 10px 0 0 45px;
+}
+.hide1, .hide2, .hide3
+{
+}
+.wrong1, .wrong2
+{
+    font-size: 12px;
+}
+.wrong1 ul, wrong2 ul
+{
+    padding: 0 0 0 70px;
+    margin: 10px 0 0 0;
+}
+.gr
+{
+    padding: 10px 0 0 45px;
+}
+.gr1
+{
+    padding: 10px 0 0 10px;
+}
+.gr .bottom, .gr1 .bottom
+{
+    width: 80px;
+    margin: 0;
+    padding: 0;
+}
+.gr1 span
+{
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+.gr1 .txtname, .gr1 .txtpost, .gr1 .txtcollege, .gr1 .txtphone, .gr1 .txtemail
+{
+    font-size: 12px;
+    border-style: none;
+    border-width: 0px;
+    padding: 0px;
+}
+.gr1 .txtname, .gr1 .txtpost
+{
+    width: 60px;
+}
+.gr1 .txtcollege
+{
+    width: 75px;
+}
+.gr1 .txtphone
+{
+    width: 80px;
+}
+.gr1 .txtemail
+{
+    width: 120px;
+}
+.gr1 .btn
+{
+    display: inline-block;
+    font-size: 12px;
+    padding: 0px;
+    margin: 0px;
+    border-width: 0px;
+    width: 25px;
+}
+.search
+{
+    padding-top: 20px;
+    height: 40px;
+}
+.search .sc
+{
+    float: left;
+    width: 160px;
+}
+.search .sc span
+{
+    display: inline-block;
+    margin: 10px 0 0 10px;
+    padding: 0px;
+    width: 40px;
+    text-align: left;
+}
+.search .img
+{
+    float: left;
+    margin: 7px 0 0 5px;
+}
+.classmes1
+{
+    text-align: center;
+    width: 40px;
+    font-size: 12px;
+}
+.classmes2
+{
+    text-align: center;
+    width: 90px;
+    font-size: 12px;
+}
+.classmes3
+{
+    text-align: center;
+    width: 80px;
+    font-size: 12px;
+}
+.classmes4
+{
+    text-align: center;
+    width: 40px;
+    font-size: 12px;
+}
+.stumes
+{
+    display: inline-block;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    text-align: center;
+    margin-left: 10px;
+}
+.ad
+{
+    display: block;
+}
+.txtcon
+{
+    font-size: 14px;
+    position: static;
+    text-align: left;
+    padding: 0;
+    margin: 5px 0 0 8px;
+}
+.txtnotice
+{
+    padding: 10 0 0 50;
+}
+.reviews
+{
+    position: absolute;
+    top: 140px;
+    left: 400px;
+    background-color: Gray;
+    width: 300px;
+}
+.notice
+{
+    padding:25px 0 0 15px;
+    text-align:left;
+    margin:1px 20px 0 0;
+    font-size:12px;
+    float:right;
+    width:122px;
+    height:108px;
+    background-image: url( "../images/notice.jpg" );
+}
+.more
+{
+    position:absolute;
+    top:138px;
+    right:185px;
+}
+.hr
+{
+    width:575px;
+    text-align:left;
+}

@@ -1,0 +1,138 @@
+﻿body
+{
+}
+#top
+{
+    width: 760px;
+    height: 74px;
+    margin: 0px auto;
+    background-image: url(../images/top.jpg);
+}
+.escbtn
+{
+    float: right;
+    position: relative;
+    right: 35px;
+    bottom: 11px;
+}
+#lbl
+{
+    position: relative;
+    top: 54px;
+    left: 20px;
+    font-size: 12px;
+}
+#lbl span
+{
+    display: inline-block;
+    margin: 0px;
+    padding: 0;
+    width: 60px;
+    font-size: 12px;
+    text-align: left;
+}
+#main
+{
+    width: 760px;
+    margin: 0px auto;
+    min-height:440px;
+}
+#navigation
+{
+    float: left;
+    width: 150px;
+    margin: 5px 0 0 0;
+    height:460px;
+}
+#menu
+{
+    width: 160px;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+#menu li
+{
+    margin: 0 1px 0 0;
+    padding: 0px;
+    width: 150px;
+}
+    #menu li dl {
+        width: 150px; /*ie6*/
+        margin: 0px;
+        padding: 0 0 10px 0;
+        background: #535353 url(../images/menuBottom.gif) no-repeat bottom left;
+    }
+    #menu li dt {
+        font-size: 14px;
+        margin: 0px;
+        padding: 5px;
+        text-align: center;
+        border-bottom: 2px solid #000000;
+        background: #535353 url(../images/menuTop.gif) no-repeat top left;
+    }
+#menu li dt a, #menu li dt a:visited
+{
+    display: block;
+    color: White;
+    text-decoration: none;
+}
+
+#menu li dd
+{
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+    color: White;
+    background: #47a;
+    display: none;
+}
+#menu li dd.last
+{
+    border-bottom: 1px solid #b00;
+}
+
+    #menu li dd a, #menu li dd a visited {
+        vertical-align: middle;
+        height: 1em;
+        display: block;
+        height: 18px;
+        color: White;
+        text-decoration: none;
+        padding: 4px 5px 4px 28px;
+        background: #535353 url(../images/menuArrow.gif) no-repeat 10px 10px;
+    }
+#menu li:hover dd, #menu li a:hover dd
+{
+    display: block;
+}
+#menu li:hover, #menu li a:hover /*ie6*/
+{
+    border: 0;
+}
+#menu li dd a:hover
+{
+    background: #147;
+    color: #9cf;
+}
+/*ie6*/
+#menu table
+{
+    border-collapse: collapse;
+    padding: 0;
+    margin: -1px;
+    font-size: 1em;
+}
+#content
+{  
+    margin: 0 0 0 150px;
+}
+#bottom
+{
+    width: 760px;
+    height: 10px;
+    text-align: center;
+    font-size: 12px;
+    margin: 10px auto;
+}

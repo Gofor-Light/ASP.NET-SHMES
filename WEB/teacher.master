@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="teacher.master.cs" Inherits="teacher" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>学生作业互评系统</title>
+    <link href="css/commen.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="top">
+        <div id="lbl">
+            <asp:Label ID="lbl1" runat="server" Text="当前用户:"></asp:Label>
+            <asp:Label ID="lbl2" runat="server"></asp:Label>
+        </div>
+        <div class="escbtn">
+            <asp:ImageButton ID="btnEsc" runat="server" ImageUrl="~/images/esc.jpg" OnClick="btnEsc_Click" />
+        </div>
+    </div>
+    <div id="main">
+        <div id="navigation">
+            <ul id="menu">
+                <li>
+                    <dl>
+                        <dt><a href="classman.aspx">所任课程</a></dt>
+                        <dd>
+                            <a href="classman.aspx">课程学生名单</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt><a href="settinghomework.aspx">作业管理</a></dt>
+                        <dd>
+                            <a href="settinghomework.aspx">布置作业</a></dd>
+                        <dd>
+                            <a href="reviewshomework.aspx">批阅作业</a></dd>
+                        <dd>
+                            <a href="countstudenthomework.aspx">统计作业</a></dd>
+                    </dl>
+                </li>
+                <li>
+                    <dl>
+                        <dt><a href="teaDefault.aspx">个人管理</a></dt>
+                        <dd>
+                            <a href="teaDefault.aspx">查看个人信息</a></dd>
+                    </dl>
+                </li>
+            </ul>
+        </div>
+        <div id="content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,37 @@
+F:\基于WEB作业管理系统\MODEL\bin\Debug\MODEL.dll
+F:\基于WEB作业管理系统\MODEL\bin\Debug\MODEL.pdb
+F:\基于WEB作业管理系统\MODEL\obj\Debug\ResolveAssemblyReference.cache
+F:\基于WEB作业管理系统\MODEL\obj\Debug\MODEL.dll
+F:\基于WEB作业管理系统\MODEL\obj\Debug\MODEL.pdb
+E:\杜家兑(勿删)\基于WEB作业管理系统\MODEL\bin\Debug\MODEL.dll
+E:\杜家兑(勿删)\基于WEB作业管理系统\MODEL\bin\Debug\MODEL.pdb
+E:\杜家兑(勿删)\基于WEB作业管理系统\MODEL\obj\Debug\ResolveAssemblyReference.cache
+E:\杜家兑(勿删)\基于WEB作业管理系统\MODEL\obj\Debug\MODEL.dll
+E:\杜家兑(勿删)\基于WEB作业管理系统\MODEL\obj\Debug\MODEL.pdb
+C:\Documents and Settings\Administrator\桌面\基于WEB作业管理系统\MODEL\bin\Debug\MODEL.dll
+C:\Documents and Settings\Administrator\桌面\基于WEB作业管理系统\MODEL\bin\Debug\MODEL.pdb
+C:\Documents and Settings\Administrator\桌面\基于WEB作业管理系统\MODEL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\基于WEB作业管理系统\MODEL\obj\Debug\MODEL.dll
+C:\Documents and Settings\Administrator\桌面\基于WEB作业管理系统\MODEL\obj\Debug\MODEL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\基于WEB作业管理系统\MODEL\bin\Debug\MODEL.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\基于WEB作业管理系统\MODEL\bin\Debug\MODEL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\基于WEB作业管理系统\MODEL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\基于WEB作业管理系统\MODEL\obj\Debug\MODEL.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\基于WEB作业管理系统\MODEL\obj\Debug\MODEL.pdb
+C:\Documents and Settings\Administrator\桌面\杜家兑毕业设计\基于WEB作业管理系统\MODEL\bin\Debug\MODEL.dll
+C:\Documents and Settings\Administrator\桌面\杜家兑毕业设计\基于WEB作业管理系统\MODEL\bin\Debug\MODEL.pdb
+C:\Documents and Settings\Administrator\桌面\杜家兑毕业设计\基于WEB作业管理系统\MODEL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\杜家兑毕业设计\基于WEB作业管理系统\MODEL\obj\Debug\MODEL.dll
+C:\Documents and Settings\Administrator\桌面\杜家兑毕业设计\基于WEB作业管理系统\MODEL\obj\Debug\MODEL.pdb
+D:\作业\毕业设计\参考资料\3306734_AOB\基于Web的学生作业管理系统源码(带论文文档)\项目代码\基于WEB作业管理系统\MODEL\bin\Debug\MODEL.dll
+D:\作业\毕业设计\参考资料\3306734_AOB\基于Web的学生作业管理系统源码(带论文文档)\项目代码\基于WEB作业管理系统\MODEL\bin\Debug\MODEL.pdb
+D:\作业\毕业设计\参考资料\3306734_AOB\基于Web的学生作业管理系统源码(带论文文档)\项目代码\基于WEB作业管理系统\MODEL\obj\Debug\MODEL.csproj.AssemblyReference.cache
+D:\作业\毕业设计\参考资料\3306734_AOB\基于Web的学生作业管理系统源码(带论文文档)\项目代码\基于WEB作业管理系统\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+D:\作业\毕业设计\参考资料\3306734_AOB\基于Web的学生作业管理系统源码(带论文文档)\项目代码\基于WEB作业管理系统\MODEL\obj\Debug\MODEL.dll
+D:\作业\毕业设计\参考资料\3306734_AOB\基于Web的学生作业管理系统源码(带论文文档)\项目代码\基于WEB作业管理系统\MODEL\obj\Debug\MODEL.pdb
+D:\作业\毕业设计\基于ASP.NET学生作业互评系统\MODEL\bin\Debug\MODEL.dll
+D:\作业\毕业设计\基于ASP.NET学生作业互评系统\MODEL\bin\Debug\MODEL.pdb
+D:\作业\毕业设计\基于ASP.NET学生作业互评系统\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache
+D:\作业\毕业设计\基于ASP.NET学生作业互评系统\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+D:\作业\毕业设计\基于ASP.NET学生作业互评系统\MODEL\obj\Debug\MODEL.dll
+D:\作业\毕业设计\基于ASP.NET学生作业互评系统\MODEL\obj\Debug\MODEL.pdb

@@ -1,0 +1,43 @@
+﻿*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-image: url("../images/login.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#login {
+    margin: 10px auto 10px auto;
+    width: 500px;
+    height: 500px;
+
+    padding: 1px;
+}
+#login .row
+{
+width:220px;
+height:40px;
+    margin-left: 400px;
+    margin-right: 170px;
+    margin-bottom: auto;
+}
+#type
+{
+width:220px;
+height:40px;
+margin:300px 150px auto 400px;
+}
+.lb
+{
+color:White ;
+font-weight:bold;
+width:60px;
+}
+#go {
+    float: right;
+    position: relative;
+    bottom: 100px;
+    left: 220px;
+}

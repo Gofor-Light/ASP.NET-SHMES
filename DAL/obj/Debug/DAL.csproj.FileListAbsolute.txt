@@ -1,0 +1,52 @@
+F:\基于WEB作业管理系统\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\基于WEB作业管理系统\DAL\bin\Debug\DAL.dll
+F:\基于WEB作业管理系统\DAL\bin\Debug\DAL.pdb
+F:\基于WEB作业管理系统\DAL\obj\Debug\DAL.dll
+F:\基于WEB作业管理系统\DAL\obj\Debug\DAL.pdb
+F:\基于WEB作业管理系统\DAL\bin\Debug\MODEL.dll
+F:\基于WEB作业管理系统\DAL\bin\Debug\MODEL.pdb
+E:\杜家兑(勿删)\基于WEB作业管理系统\DAL\bin\Debug\DAL.dll
+E:\杜家兑(勿删)\基于WEB作业管理系统\DAL\bin\Debug\DAL.pdb
+E:\杜家兑(勿删)\基于WEB作业管理系统\DAL\bin\Debug\MODEL.dll
+E:\杜家兑(勿删)\基于WEB作业管理系统\DAL\bin\Debug\MODEL.pdb
+E:\杜家兑(勿删)\基于WEB作业管理系统\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\杜家兑(勿删)\基于WEB作业管理系统\DAL\obj\Debug\DAL.dll
+E:\杜家兑(勿删)\基于WEB作业管理系统\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\基于WEB作业管理系统\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\基于WEB作业管理系统\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\基于WEB作业管理系统\DAL\bin\Debug\MODEL.dll
+C:\Documents and Settings\Administrator\桌面\基于WEB作业管理系统\DAL\bin\Debug\MODEL.pdb
+C:\Documents and Settings\Administrator\桌面\基于WEB作业管理系统\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\基于WEB作业管理系统\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\基于WEB作业管理系统\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\基于WEB作业管理系统\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\基于WEB作业管理系统\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\基于WEB作业管理系统\DAL\bin\Debug\MODEL.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\基于WEB作业管理系统\DAL\bin\Debug\MODEL.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\基于WEB作业管理系统\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\基于WEB作业管理系统\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\基于WEB作业管理系统\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\杜家兑毕业设计\基于WEB作业管理系统\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\杜家兑毕业设计\基于WEB作业管理系统\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\杜家兑毕业设计\基于WEB作业管理系统\DAL\bin\Debug\MODEL.dll
+C:\Documents and Settings\Administrator\桌面\杜家兑毕业设计\基于WEB作业管理系统\DAL\bin\Debug\MODEL.pdb
+C:\Documents and Settings\Administrator\桌面\杜家兑毕业设计\基于WEB作业管理系统\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\杜家兑毕业设计\基于WEB作业管理系统\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\杜家兑毕业设计\基于WEB作业管理系统\DAL\obj\Debug\DAL.pdb
+D:\作业\毕业设计\参考资料\3306734_AOB\基于Web的学生作业管理系统源码(带论文文档)\项目代码\基于WEB作业管理系统\DAL\bin\Debug\DAL.dll
+D:\作业\毕业设计\参考资料\3306734_AOB\基于Web的学生作业管理系统源码(带论文文档)\项目代码\基于WEB作业管理系统\DAL\bin\Debug\DAL.pdb
+D:\作业\毕业设计\参考资料\3306734_AOB\基于Web的学生作业管理系统源码(带论文文档)\项目代码\基于WEB作业管理系统\DAL\bin\Debug\MODEL.dll
+D:\作业\毕业设计\参考资料\3306734_AOB\基于Web的学生作业管理系统源码(带论文文档)\项目代码\基于WEB作业管理系统\DAL\bin\Debug\MODEL.pdb
+D:\作业\毕业设计\参考资料\3306734_AOB\基于Web的学生作业管理系统源码(带论文文档)\项目代码\基于WEB作业管理系统\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\作业\毕业设计\参考资料\3306734_AOB\基于Web的学生作业管理系统源码(带论文文档)\项目代码\基于WEB作业管理系统\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\作业\毕业设计\参考资料\3306734_AOB\基于Web的学生作业管理系统源码(带论文文档)\项目代码\基于WEB作业管理系统\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\作业\毕业设计\参考资料\3306734_AOB\基于Web的学生作业管理系统源码(带论文文档)\项目代码\基于WEB作业管理系统\DAL\obj\Debug\DAL.dll
+D:\作业\毕业设计\参考资料\3306734_AOB\基于Web的学生作业管理系统源码(带论文文档)\项目代码\基于WEB作业管理系统\DAL\obj\Debug\DAL.pdb
+D:\作业\毕业设计\基于ASP.NET学生作业互评系统\DAL\bin\Debug\DAL.dll
+D:\作业\毕业设计\基于ASP.NET学生作业互评系统\DAL\bin\Debug\DAL.pdb
+D:\作业\毕业设计\基于ASP.NET学生作业互评系统\DAL\bin\Debug\MODEL.dll
+D:\作业\毕业设计\基于ASP.NET学生作业互评系统\DAL\bin\Debug\MODEL.pdb
+D:\作业\毕业设计\基于ASP.NET学生作业互评系统\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\作业\毕业设计\基于ASP.NET学生作业互评系统\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\作业\毕业设计\基于ASP.NET学生作业互评系统\DAL\obj\Debug\DAL.dll
+D:\作业\毕业设计\基于ASP.NET学生作业互评系统\DAL\obj\Debug\DAL.pdb
